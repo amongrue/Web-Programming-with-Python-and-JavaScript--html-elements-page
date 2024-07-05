@@ -2,8 +2,6 @@
 
 Web Programming with Python and JavaScript- html elements page (H1-3 title &amp; Headings) Project
 
- # Web-Programming-with-Python-and-JavaScript--html-elements-page
-
 <h2>Description</h2>
 Project consists of a simple PowerShell script that walks the user through "Web Programming with Python and JavaScript today! Starting up with html elements page(H1-3 title & Headings).
 <br />
