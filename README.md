@@ -2,8 +2,6 @@
 
 Web Programming with Python and JavaScript- html elements page (H1-3 title &amp; Headings) Project
 
-<h1># Web-Programming-with-Python-and-JavaScript--html-elements-page>
-
  # Web-Programming-with-Python-and-JavaScript--html-elements-page
 
 <h2>Description</h2>
